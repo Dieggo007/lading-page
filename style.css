@@ -131,3 +131,23 @@ h3 {
   width: 100%;
   height: 100%;
 }
+
+.testimony {
+  background-color: #E5E7EB;
+  display: flex;
+  flex-direction: column;
+  padding: 96px 336px 64px;
+}
+
+.testimony .quote {
+  color: #1F2937;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.testimony p {
+  font-size: 24px;
+  font-weight: 700;
+  align-self: flex-end;
+}
